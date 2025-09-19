@@ -1,4 +1,5 @@
 print("hello world")
-print("")
-print("GG")
-print("test")
+println("")
+println("GG")
+println("test")
+println("trash git")
